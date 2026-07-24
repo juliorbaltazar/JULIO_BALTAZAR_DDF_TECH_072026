@@ -1,0 +1,114 @@
+[
+  {
+    "title_original": "Wireless Earbuds, Bluetooth 5.3 Earphones with 4 HD ENC Noise Canceling Mic, 42H Playtime, Bluetooth Sport Headphones Touch Control with LED Display, In Ear Wireless Headphones for Android iOS Black",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Earbuds (intra-auricular)",
+    "marca": "Não identificada no título",
+    "conectividade": "Bluetooth 5.3",
+    "cancelamento_ruido": true,
+    "autonomia_bateria": "42 horas",
+    "cor": "Preto",
+    "compatibilidade": ["Android", "iOS"],
+    "publico_alvo": "Esportivo"
+  },
+  {
+    "title_original": "JBL Tune 710BT Wireless Over-Ear Bluetooth Headphones with Microphone, 50H Battery, Hands-Free Calls, Portable (Blue)",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Over-Ear (circumaural)",
+    "marca": "JBL",
+    "modelo": "Tune 710BT",
+    "conectividade": "Bluetooth",
+    "cancelamento_ruido": false,
+    "autonomia_bateria": "50 horas",
+    "cor": "Azul",
+    "possui_microfone": true
+  },
+  {
+    "title_original": "sephia SP3060 Earbuds - HD Bass Driven Audio, Lightweight Aluminum Wired in Ear Earbud Headphones, S/M/L Ear Bud Tips, Earphone Case, 3.5mm Tangle-Free Cord - for Music, Podcasts (Without Mic)",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Earbuds (intra-auricular)",
+    "marca": "Sephia",
+    "modelo": "SP3060",
+    "conectividade": "Com fio (P2 3.5mm)",
+    "material": "Alumínio",
+    "possui_microfone": false,
+    "acessorios_inclusos": ["Estojo", "Pontas em 3 tamanhos"]
+  },
+  {
+    "title_original": "SAMSUNG Galaxy Buds 2 Pro True Wireless Bluetooth Earbuds w/ Noise Cancelling, Hi-Fi Sound, 360 Audio, Comfort Ear Fit, HD Voice, Conversation Mode, IPX7 Water Resistant, US Version, Graphite",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Earbuds (intra-auricular)",
+    "marca": "Samsung",
+    "modelo": "Galaxy Buds 2 Pro",
+    "conectividade": "Bluetooth (True Wireless)",
+    "cancelamento_ruido": true,
+    "resistencia_agua": "IPX7",
+    "cor": "Grafite",
+    "recursos_extras": ["Áudio 360", "Hi-Fi Sound"]
+  },
+  {
+    "title_original": "Raycon The Everyday Bluetooth Wireless Earbuds with Microphone- Stereo Sound in-Ear Bluetooth Headset True Wireless Earbuds 32 Hours Playtime (Matte Black)",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Earbuds (intra-auricular)",
+    "marca": "Raycon",
+    "modelo": "The Everyday",
+    "conectividade": "Bluetooth (True Wireless)",
+    "autonomia_bateria": "32 horas",
+    "cor": "Preto Fosco",
+    "possui_microfone": true
+  },
+  {
+    "title_original": "Bose QuietComfort 45 Wireless Bluetooth Noise Cancelling Headphones, Over-Ear Headphones with Microphone, Personalized Noise Cancellation and Sound, White Smoke",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Over-Ear (circumaural)",
+    "marca": "Bose",
+    "modelo": "QuietComfort 45",
+    "conectividade": "Bluetooth",
+    "cancelamento_ruido": true,
+    "cor": "Branco Fumê",
+    "posicionamento": "Premium"
+  },
+  {
+    "title_original": "OneOdio Wired Over Ear Headphones Studio Monitor & Mixing DJ Stereo Headsets with 50mm Neodymium Drivers and 1/4 to 3.5mm Jack for AMP Computer Recording Podcast Keyboard Guitar Laptop - Black",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Over-Ear (circumaural)",
+    "marca": "OneOdio",
+    "conectividade": "Com fio (P10/P2)",
+    "uso_recomendado": "Estúdio/Profissional (mixagem, monitoramento)",
+    "driver": "50mm Neodímio",
+    "cor": "Preto"
+  },
+  {
+    "title_original": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Earbuds with Mic for TV Smart Phone Computer Laptop Sports",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Earbuds (intra-auricular)",
+    "marca": "TAGRY",
+    "conectividade": "Bluetooth (True Wireless)",
+    "autonomia_bateria": "60 horas",
+    "resistencia_agua": "IPX5",
+    "carregamento_sem_fio": true,
+    "possui_microfone": true
+  },
+  {
+    "title_original": "Kids Headphones - noot products K11 Foldable Stereo Tangle-Free 3.5mm Jack Wired Cord On-Ear Headset for Children/Teens/Boys/Girls/Smartphones/School/Kindle/Airplane Travel/Plane/Tablet (Navy/Teal)",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "On-Ear (supra-auricular)",
+    "marca": "noot products",
+    "modelo": "K11",
+    "conectividade": "Com fio (P2 3.5mm)",
+    "publico_alvo": "Infantil",
+    "cor": "Azul-marinho/Verde-água",
+    "caracteristica_fisica": "Dobrável"
+  },
+  {
+    "title_original": "PIFFA Bluetooth Headphones Wireless Earbuds, 132Hr Playtime Sports Ear Buds with 1800mAh Digital Display Charging Case, IPX5 Waterproof Headset with Microphone Cordless Earphone for iPhone Android TV",
+    "categoria": "Fone de Ouvido",
+    "subcategoria": "Earbuds (intra-auricular)",
+    "marca": "PIFFA",
+    "conectividade": "Bluetooth (True Wireless)",
+    "autonomia_bateria": "132 horas",
+    "resistencia_agua": "IPX5",
+    "publico_alvo": "Esportivo",
+    "possui_microfone": true
+  }
+]
